@@ -1,0 +1,15 @@
+=== Deleted extensions by reverse size ===
+Format: unpacked size, packed size, date deleted, extension name
+      445608      62955 2005-04-04 .aps
+       42065      11066 2007-06-21 .dat,v
+       23909       5050 2007-06-21 .tmp,v
+       21412       4021 2007-06-21 .chem,v
+       77497       3829 2007-06-21 .log,v
+       23782       2713 2007-06-21 .bal,v
+       22230       1916 2007-06-21 .head,v
+        7540       1671 2007-06-21 .probdef,v
+        6033       1351 2012-10-18 .dsp
+       19751        779 2007-06-21 .vel,v
+         543        217 2012-10-18 .dsw
+         192        200 2012-10-18 .fd
+         192        159 2007-06-21 .sel,v
