@@ -1,0 +1,12 @@
+=== Deleted extensions by reverse size ===
+Format: unpacked size, packed size, date deleted, extension name
+      490763      45402 2016-06-07 .rev
+      199558      39298 2006-02-16 .sel
+      105290      17595 2019-04-23 .log
+       62148      11144 2017-02-07 .lib
+       11260       3964 2016-01-20 .checklist
+        4952        747 2010-04-07 .for
+         508        464 2014-12-20 .u2d
+         529        213 2006-02-16 .dsw
+         757        111 2015-11-09 .datOriginal
+      250004        106 2016-06-07 .dist

@@ -1,0 +1,19 @@
+=== Deleted directories by reverse size ===
+Format: unpacked size, packed size, date deleted, directory name
+     4365011     750458 2016-06-07 src/phreeqcpp
+     3425119     598346 2016-06-07 src/phreeqcpp/phreeqc
+     3425119     598346 2016-06-07 phreeqcpp/phreeqc
+    30663236     453806 2013-01-10 phreeqc
+     3980378     386828 2019-04-23 examples/solute-energy/example2
+     1730294     216463 2006-02-16 Sun/examples
+     1730294     216463 2006-02-16 Sun
+      227180      73665 2017-02-07 x64
+      227180      73665 2017-02-07 src/x64
+      210470      70224 2017-02-07 win32
+      210470      70224 2017-02-07 src/win32
+      255995      43956 2011-11-09 QBasic
+      415890      15679 2014-12-20 vs2008
+       73205      14582 2006-02-16 classes
+       42634      13924 2016-06-07 src/KDtree
+       42634      13924 2016-06-07 KDtree
+       71201       8402 2016-06-07 include
